@@ -1,0 +1,23 @@
+{
+  "name": "λ",
+  "version": "0.0.1",
+  "description": "A general-purpose, purely functional library in JavaScript.",
+  "main": "source/index.js",
+  "scripts": {
+    "lint": "eslint source/*.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haeskel/haeskel.git"
+  },
+  "author": "theganfather",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haeskel/haeskel/issues"
+  },
+  "homepage": "https://github.com/haeskel/haeskel#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
